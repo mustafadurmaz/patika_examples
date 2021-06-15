@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 36px;
+    height: 70vh;
+    background-color: rgb(99, 160, 209);
+    color: beige;
+}
